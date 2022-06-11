@@ -1,12 +1,8 @@
-{
-    "message" : [
-    { 
-      "mobile":"0936021305",
-      "text":"test imessage"
-    },
-    { 
-      "id":"0936021305",
-      "text":"test imessage 2"
-    }
-    ]
+{ 
+  "mobile":"0936021305",
+  "text":"test imessage"
+},
+{ 
+  "mobile":"0936021305",
+  "text":"test imessage 2"
 }
