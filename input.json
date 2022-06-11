@@ -1,11 +1,11 @@
 {
     "message" : [
     { 
-      "id":1,
+      "mobile":"0936021305",
       "text":"test imessage"
     },
     { 
-      "id":2,
+      "id":"0936021305",
       "text":"test imessage 2"
     }
     ]
